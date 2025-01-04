@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1730727908 source:c:\users\shubh parmar\desktop\c program\c\dsa project (final)\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<queue>
+
